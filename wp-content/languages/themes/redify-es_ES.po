@@ -1,0 +1,32 @@
+# Translation of Themes - Redify in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Redify package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 06:20:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Redify\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate / business website. Those who need the white background based theme they can use this child  theme. You can set banner image along with title , description and read more button. Font page will show the Banner, Serviced Section, Portfolio Section and Latest News/Posts/Articles."
+msgstr "Un tema para negocios que es ideal para un sitio web corporativo o de empresa.  Si necesitas la variación del tema con el fondo blanco, puedes usar este tema hijo. Puedes ajustar una imagen del banner junto al título, descripción y el botón de leer más. La página principal mostrará el banner, la sección de servicios, la sección de portfolios y los últimos artículos/noticias/entradas."
+
+#. Theme Name of the plugin/theme
+msgid "Redify"
+msgstr "Redify"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/redify-child-version-details-page/"
+msgstr "http://webriti.com/redify-child-version-details-page/"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webriti.com"
+msgstr "http://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"

@@ -1,0 +1,42 @@
+/*
+Theme Name:    Redify
+ Description:  A Business theme which is ideal for creating a corporate / business website. Those who need the white background based theme they can use this child  theme. You can set banner image along with title , description and read more button. Font page will show the Banner, Serviced Section, Portfolio Section and Latest News/Posts/Articles.
+ Author:       webriti
+ Author URI:   http://www.webriti.com
+ Theme URI:   http://webriti.com/redify-child-version-details-page/
+ Template:     rambo
+ Version:      400000.0.6
+ Tags: 		   red
+ Text Domain: full-width-template, threaded-comments, custom-menu, two-columns, translation-ready, theme-options, sticky-post, blog, footer-widgets, right-sidebar, left-sidebar, portfolio
+*/
+
+.flex_btn { color: #FFFFFF; text-shadow: 0 0 1px #226056; }
+.flex_btn:hover { background-color: #3e3f41; }
+
+.flex_btn {
+    float: left;
+    font-family: 'Roboto';
+	font-weight:400;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 5px;
+    margin-top: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 0px;
+    opacity: 0px;
+    text-decoration: none;
+    transition: all 0.4s ease 0s;
+}
+.flex_btn {
+    color: #FFFFFF;
+    text-shadow: 0 0 1px #226056;
+    background-color: #db2723;
+}
+.latest_news_section h3 a
+{
+color:#555555 !important;
+}

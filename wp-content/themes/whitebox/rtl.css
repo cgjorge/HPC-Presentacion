@@ -1,0 +1,33 @@
+/*
+Theme Name: whitebox
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.menu {
+	left: 0;
+}
+ul, ol {
+    margin: 0 3em 1.5em 0;
+}
+
+label {
+    clear: right;
+    display: block;
+    float: right;
+    width: 5em;
+}
+input[type="submit"] {
+	clear: right;
+	float: left;
+}

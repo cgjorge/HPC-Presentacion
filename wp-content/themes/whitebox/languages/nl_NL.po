@@ -1,0 +1,492 @@
+# Copyright (C) 2013 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: whitebox\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2014-08-09 10:41+0100\n"
+"PO-Revision-Date: 2014-08-09 11:18+0100\n"
+"Last-Translator: Sylvia stuurman <sylviastuurman@gmail.com>\n"
+"Language-Team: LANGUAGE <info@spiderproductions,nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_x;__;n;nx;_ex;esc_attr_x;gettext;gettext_noop;"
+"_n:1,2;_nx:1,2\n"
+"X-Poedit-Basepath: W:\\wordpress themes\\whitebox\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deze pagina lijkt niet te bestaan."
+
+#: 404.php:16
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Er lijkt hier niets te vinden. Probeer de links hier onder, of geef een "
+"zoekopdracht."
+
+#: 404.php:21
+msgid "Most Used Categories"
+msgstr "De meest gebruikte categorieën"
+
+#: 404.php:35
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Kijk bij de archieven op maand. %1$s"
+
+#: archive.php:25
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: archive.php:32
+#, php-format
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: archive.php:34
+#, php-format
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: archive.php:38
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:40
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: archive.php:42
+msgid "Videos"
+msgstr "Video's"
+
+#: archive.php:44
+msgid "Quotes"
+msgstr "Quotes"
+
+#: archive.php:46
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:48 inc/breadcrumb-trail.php:125 sidebar.php:12
+msgid "Archives"
+msgstr "Archieven"
+
+#: comments.php:26
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Eén reactie op &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reacties op &ldquo;%2$s&rdquo;"
+
+#: comments.php:32 comments.php:50
+msgid "Comment navigation"
+msgstr "Commentaar-navigatie"
+
+#: comments.php:33 comments.php:51
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:34 comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Geen reacties meer mogelijk"
+
+#: content-page.php:18 content-single.php:18 content.php:26 image.php:52
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: content-page.php:23 content-single.php:56 content.php:56
+#: content_featured.php:40 image.php:30 image.php:68
+#: inc/breadcrumb-trail.php:941 inc/breadcrumb-trail.php:977
+#: inc/breadcrumb-trail.php:994 inc/breadcrumb-trail.php:1025
+#: inc/template-tags.php:71 inc/template-tags.php:93
+msgid "Edit"
+msgstr "Wijzig"
+
+#: content-single.php:26 content-single.php:29 content.php:36 content.php:45
+#: content_featured.php:21 content_featured.php:30
+msgid ", "
+msgstr ", "
+
+#: content-single.php:34
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Deze post heeft als tags %2$s. Bookmark de <a href=\"%3$s\" title="
+"\"Permalink voor %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:36
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"Bookmark de <a href=\"%3$s\" title=\"Permalink voor %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+
+#: content-single.php:42
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Deze post is geschreven in %1$s met tags %2$s. Bookmark de <a href=\"%3$s\" "
+"title=\"Permalink voor %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:44
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Deze post is geschreven in %1$s. Bookmark de <a href=\"%3$s\" title="
+"\"Permalink voor %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: content.php:40 content_featured.php:25
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Geschreven in %1$s"
+
+#: content.php:49 content_featured.php:34
+#, php-format
+msgid "Tagged %1$s"
+msgstr "met tags %1$s"
+
+#: content.php:54 content_featured.php:38
+msgid "Leave a comment"
+msgstr "Geef een reacties"
+
+#: content.php:54 content_featured.php:38
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: content.php:54 content_featured.php:38
+msgid "% Comments"
+msgstr "% reacties"
+
+#: footer.php:29
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s door %2$s."
+
+#: front-page.php:17
+msgid "Featured Content"
+msgstr "Geselecteerde posts"
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
+
+#: functions.php:50
+msgid "Social"
+msgstr "Social"
+
+#: functions.php:70
+msgid "Sidebar"
+msgstr "Zijkant"
+
+#: functions.php:113
+msgid "Read More"
+msgstr "Lees verder"
+
+#: header.php:28
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Direct naar de inhoud"
+
+#: image.php:19
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+"Gepubliceerd op <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> op <a href=\"%3$s\" title=\"Link naar "
+"full-size afbeelding\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title="
+"\"Terug naar %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:34
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vorige"
+
+#: image.php:35
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Volgende <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:60
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Geef een reactie\">Geef "
+"een reactie</a> of een trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:62
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Reacties zijn niet meer mogelijk, maar je kunt wel een trackback "
+"achterlaten: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL "
+"for your post\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:64
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Je kunt geen trackback achterlaten, maar je kunt wel een <a class=\"comment-"
+"link\" href=\"#respond\" title=\"Geef een reactie\">reactie geven</a>."
+
+#: image.php:66
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Reacties en trackbacks zijn niet meer mogelijk."
+
+#: inc/breadcrumb-trail.php:89
+msgid "You are here: "
+msgstr " "
+
+#: inc/breadcrumb-trail.php:120
+msgid "Browse:"
+msgstr "Blader:"
+
+#: inc/breadcrumb-trail.php:121
+msgid "Home"
+msgstr "Home"
+
+#: inc/breadcrumb-trail.php:122
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Zoekresultaten voor %s"
+
+#: inc/breadcrumb-trail.php:123
+msgid "404 Not Found"
+msgstr "Niets gevonden"
+
+#: inc/breadcrumb-trail.php:124
+#, php-format
+msgid "Page %d"
+msgstr "Pagina %d"
+
+#: inc/breadcrumb-trail.php:126
+msgid "g:i a"
+msgstr "g:i a"
+
+#: inc/breadcrumb-trail.php:127
+#, php-format
+msgid "Minute %d"
+msgstr "Minuut %d"
+
+#: inc/breadcrumb-trail.php:128
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumb-trail.php:129
+msgid "d"
+msgstr "d"
+
+#: inc/breadcrumb-trail.php:130
+#, php-format
+msgid "Week %d"
+msgstr "Week %d"
+
+#: inc/breadcrumb-trail.php:131
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumb-trail.php:132 inc/breadcrumb-trail.php:853
+msgid "Y"
+msgstr "J"
+
+#: inc/breadcrumb-trail.php:969
+msgid "Split"
+msgstr "Split"
+
+#: inc/breadcrumb-trail.php:973
+msgid "Merge"
+msgstr "Voeg samen"
+
+#: inc/extras.php:55
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Post navigatie"
+
+#: inc/template-tags.php:38
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:39
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere posts"
+
+#: inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:90
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: inc/template-tags.php:97
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wordt eerst bekeken."
+
+#: inc/template-tags.php:184
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Geplaatst op %1$s</span><span class=\"byline\"> "
+"door %2$s</span>"
+
+#: inc/template-tags.php:192
+#, php-format
+msgid "View all posts by %s"
+msgstr "Bekijk alle posts van %s"
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar voor je eerste post? <a href=\"%1$s\">Begin hier</a>."
+
+#: no-results.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, maar er is niets dat aan je zoekcriteria voldoet. Probeer andere "
+"zoekwoorden."
+
+#: no-results.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "We kunnen niet vinden wat je zoekt. Misschien helpt een zoekopdracht."
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor %s"
+
+#: searchform.php:10 searchform.php:11
+msgid "Search for:"
+msgstr "Zoek:"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "Zoeken &hellip;"
+
+#: searchform.php:13
+msgid "Search"
+msgstr "Zoek"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Meta"
+
+#~ msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "Archieven voor de categorie %s"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Archieven voor de tag %s"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "Dagarchieven: %s"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "Jaararchieven: %s"
+
+#~ msgid "A Semantic Personal Publishing Platform"
+#~ msgstr "Een semantisch persoonlijk platform"
+
+#~ msgid "Proudly powered by %s"
+#~ msgstr "Gebaseerd op %s"
+
+#~ msgid "%s <span class=\"says\">says:</span>"
+#~ msgstr "%s <span class=\"says\">schrijft:</span>"
+
+#~ msgid ""
+#~ "Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+#~ "\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> "
+#~ "by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title="
+#~ "\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+#~ msgstr ""
+#~ "Geschreven op <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time "
+#~ "class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline"
+#~ "\"> door <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+#~ "title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#~ msgid "_s"
+#~ msgstr "whitebox"
+
+#~ msgid "http://underscores.me"
+#~ msgstr "http://dev.spiderproductions.nl"
+
+#~ msgid ""
+#~ "Hi. I'm a starter theme called <code>_s</code>, or <em>underscores</em>, "
+#~ "if you like. I'm a theme meant for hacking so don't use me as a "
+#~ "<em>Parent Theme</em>. Instead try turning me into the next, most "
+#~ "awesome, WordPress theme out there. That's what I'm here for."
+#~ msgstr ""
+#~ "Dit is een starter theme, genaamd <code>_s</code>, or <em>underscores</"
+#~ "em>, if you like. I'm a theme meant for hacking so don't use me as a "
+#~ "<em>Parent Theme</em>. Instead try turning me into the next, most "
+#~ "awesome, WordPress theme out there. That's what I'm here for."
+
+#~ msgid "Automattic"
+#~ msgstr "Automattic"
+
+#~ msgid "http://automattic.com/"
+#~ msgstr "http://automattic.com/"

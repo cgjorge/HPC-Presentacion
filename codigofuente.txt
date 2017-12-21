@@ -1,8 +1,0 @@
-funcion boton
-
-funcionalidad 2 del boton verde
-
-def function iva(x){}
-
-hola pepito
-hola don jose
